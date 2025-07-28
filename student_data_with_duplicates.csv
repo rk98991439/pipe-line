@@ -1,0 +1,116 @@
+StudentID,Name,Class,Age,Gender,Marks,City,Phone,CourseName,CoursePlatform,EnrollDate
+1,Anna Sanchez,12B,16,Male,65.94,Sharonfurt,557-711-2614,Science,Skillshare,2025-03-29
+2,Jeffrey Winters,10A,16,Male,74.26,Richardshire,822.260.1631,Art,Coursera,2024-09-14
+3,Chase Warren,11B,18,Male,58.2,Port Kellychester,(280)837-0698x38175,Biology,Coursera,2024-10-07
+4,Danny Anderson,10A,18,Male,55.81,Theodoreshire,378.907.9129,Art,Skillshare,2025-06-25
+5,Jill Miller,12B,18,Male,96.48,West Aprilbury,(677)288-8442x9277,Biology,Udemy,2025-04-14
+6,Derek Harrell,11A,16,Male,75.26,Kimport,959-428-0210x7324,Physics,edX,2024-07-14
+7,Sherri Guzman,11A,18,Male,52.47,Johnsonport,465.808.9280x62111,Math,Skillshare,2025-05-01
+8,Samantha Cook,11B,15,Female,90.72,Heathport,+1-896-645-3870x145,Computer Science,Udemy,2025-01-10
+9,Justin Church,10A,17,Male,66.34,Wattsville,+1-502-833-9221x3982,Biology,edX,2025-02-10
+10,Mr. Jacob King Jr.,11B,16,Female,51.28,Port Leslietown,(627)945-7536,History,Khan Academy,2024-07-20
+11,Adam Watson,11A,17,Female,98.99,East Kevinfort,416-893-0284,History,Udemy,2024-07-27
+12,Marcus Morgan MD,11B,15,Male,68.1,South Catherinebury,(289)538-3658,Physics,Skillshare,2024-07-12
+13,Diane Conley,11B,17,Female,96.4,Ortizberg,(576)860-3205,Science,Khan Academy,2024-10-06
+14,Sherri Rose,12A,15,Female,96.61,Smithport,+1-634-225-1279x42499,Art,Skillshare,2025-02-10
+15,Kimberly Salazar,10A,18,Female,62.17,Reedville,(299)201-0350x7112,Art,edX,2025-04-13
+16,Andrew Cross,12A,15,Male,93.95,Katiehaven,001-395-406-1699,History,Coursera,2025-05-08
+17,Misty Cross,11B,16,Female,81.17,Josephberg,(731)289-6934,History,Skillshare,2024-09-23
+18,Karen Small,10B,15,Female,66.83,Jeremymouth,(296)912-7309x986,Art,Skillshare,2025-01-05
+19,Curtis Mcfarland,10B,15,Male,98.24,North Laurie,522.714.9420,Art,Skillshare,2024-12-12
+20,Raymond Flowers,10A,18,Male,89.59,Lukeville,+1-615-206-5809,Science,Udemy,2025-05-19
+21,Shannon Crawford,10B,18,Female,92.63,New Christina,+1-736-506-5399x35418,History,Khan Academy,2025-04-13
+22,Mitchell Hill,12A,16,Female,98.23,Leonardborough,7826519358,Math,Khan Academy,2025-05-09
+23,April Green,12A,16,Male,93.31,Schultzshire,995.363.0660x443,Art,Skillshare,2024-11-13
+24,Kristin Hendricks,12B,16,Male,83.76,Jonathanberg,001-412-961-4627,Chemistry,Skillshare,2024-12-14
+25,Dr. Lawrence Morales,12A,17,Male,88.34,East Carolynchester,2457394352,Science,Udemy,2025-04-18
+26,Jody Williams,12B,18,Male,95.86,East Michael,886.206.8082x75399,Physics,Coursera,2025-06-17
+27,Christopher Smith,11A,15,Male,50.54,Biancamouth,001-513-895-4400x6505,Physics,Udemy,2025-02-22
+28,Andrew White,11B,17,Male,82.24,South Scott,7458081285,Art,edX,2024-09-18
+29,Amy Jensen,12A,15,Male,67.03,West Diane,214-336-3471,Math,edX,2025-04-11
+30,John Perry,12A,18,Male,80.03,Daltonmouth,957-749-0727x81537,Chemistry,Coursera,2025-03-09
+31,Shelby Hodges,11B,15,Female,92.05,East Beverlybury,+1-658-837-1584x99753,Chemistry,edX,2025-06-15
+32,Dennis Garcia,10A,16,Male,78.9,Torresshire,964-560-9614,History,edX,2025-04-04
+33,Nathan Crosby,11B,17,Female,68.57,New Kim,001-359-425-0991x4075,Science,edX,2024-07-10
+34,Ricardo Bailey,12B,17,Female,50.55,Lucashaven,4035462347,Biology,Udemy,2024-12-23
+35,Jonathan Payne,12A,17,Male,91.94,West Sarah,325.856.1202x149,Chemistry,Khan Academy,2024-08-06
+36,Sabrina Cowan,10A,16,Male,94.65,North Robertfort,(883)705-9204x297,Biology,Skillshare,2024-11-11
+37,Heather Ballard,11B,18,Male,98.8,East Michaelborough,+1-212-436-9342,Computer Science,Skillshare,2024-11-12
+38,Miguel Whitaker,11B,18,Female,85.05,Port Jamesbury,(710)862-3132,Computer Science,Coursera,2025-06-18
+39,Eric Preston,10A,16,Male,67.8,Brownview,+1-599-999-4691x19688,Biology,Skillshare,2025-07-04
+40,David Tate,11A,16,Female,68.35,Ricardoview,(216)336-7804x86653,History,Udemy,2025-02-26
+41,Jerry Kane,10A,17,Female,55.66,Lauraburgh,(554)603-3520,Computer Science,Coursera,2024-09-21
+42,Brian Young,12B,18,Male,87.91,East Kimberlytown,001-282-998-7995,Chemistry,Skillshare,2025-03-23
+43,Brian Glenn,10A,18,Male,70.01,Lake Raymond,3527283302,Physics,Khan Academy,2024-11-04
+44,Preston Mendez,10A,16,Male,90.67,New Wendy,749-500-0760x27763,Chemistry,edX,2024-10-05
+45,Shawn Harris,10A,17,Male,83.06,Lake Andrew,933.906.2980,Computer Science,Udemy,2024-10-26
+46,Terri Colon,11B,16,Male,99.4,Frankstad,(533)680-9595x140,Chemistry,edX,2024-11-09
+47,Tina Smith,10A,15,Male,63.3,Knappville,+1-579-903-3328x48347,Art,Udemy,2024-07-13
+48,Marvin Jones,11B,16,Female,96.14,Port Lisaport,+1-683-259-5768x87174,Physics,edX,2025-04-12
+49,Kelly Perez,11B,17,Female,63.61,East Gabriel,+1-629-691-9613x5408,History,Coursera,2025-05-13
+50,Christine Ramos,11A,17,Female,85.04,New Erika,278-453-1069x0111,History,Khan Academy,2024-12-25
+51,Lisa Porter,12B,17,Female,95.29,West Catherine,001-851-660-2979x73193,Physics,Khan Academy,2024-12-22
+52,Hayley Rodriguez,12B,17,Male,57.42,West Andrew,213.992.8425,History,Udemy,2024-12-07
+53,David Walters,11B,18,Male,57.27,Rachelfort,772-802-4179x3834,Physics,Khan Academy,2025-02-08
+54,Steven Snyder,12A,16,Male,86.98,New Briantown,(989)818-5462,Physics,Udemy,2024-10-11
+55,Dennis Mann,10A,15,Female,78.35,Aprilchester,(865)811-5114x83123,Math,Khan Academy,2024-07-20
+56,Travis Carter,12A,17,Male,97.32,New Rick,+1-398-653-7299x8416,Biology,Skillshare,2024-12-02
+57,Nathan Gross,10A,17,Female,84.29,New Nicholas,+1-290-603-5623,History,Coursera,2025-06-03
+58,Jason Horton,11B,15,Male,57.18,Madisonfurt,(331)759-7182,Science,Udemy,2025-03-05
+59,Christopher Ferguson,10A,17,Male,67.8,Lake David,001-436-929-8137x743,Art,edX,2024-10-30
+60,Christopher Holloway,10B,15,Female,77.23,North Shelbyfurt,7849763010,Math,Skillshare,2024-08-24
+61,Nicholas Gonzales,11B,18,Female,94.92,West Shawnfurt,708-518-7178x738,Physics,Udemy,2024-11-12
+62,Madison Fisher,10A,17,Female,82.91,New Catherineport,+1-354-593-6788,Computer Science,Skillshare,2025-05-17
+63,Katelyn Greene,11B,17,Female,99.83,Palmerstad,(616)926-5570,Art,Skillshare,2025-01-05
+64,Mike Morgan,11B,15,Female,58.07,Hendersonshire,2753867003,History,Udemy,2025-01-03
+65,Henry Williams,10B,15,Male,69.17,Debbieview,761-533-0682,Biology,Khan Academy,2024-11-09
+66,Sarah Alvarado,11B,16,Male,78.32,Joefurt,(572)711-3504x9838,History,Udemy,2024-11-01
+67,Valerie Watson,12B,16,Male,68.93,Lake Mercedeston,225.892.6558x426,Computer Science,Skillshare,2024-09-02
+68,Tiffany Lawson,10A,16,Female,53.11,Port Vanessaburgh,247.264.9395x0988,Physics,Khan Academy,2025-01-15
+69,Veronica Lewis,10A,17,Male,89.23,New Robertborough,(388)521-7494x80163,Science,edX,2025-04-19
+70,Crystal Miller,10B,18,Female,64.74,South Kennethfort,001-702-601-9782x730,Computer Science,edX,2024-12-18
+71,Russell Brown,10B,17,Female,70.33,Lake Sabrina,366-371-0125,Art,edX,2025-04-07
+72,Mary Bishop,11B,18,Female,87.69,Heidiburgh,+1-377-735-6666x9642,Art,Udemy,2024-11-27
+73,Katherine Smith,10A,17,Female,95.77,Suzanneland,3928480136,Biology,Coursera,2024-08-11
+74,Savannah Randall,11B,15,Female,76.03,Stevebury,(414)589-7830x7467,Computer Science,edX,2025-06-14
+75,Christopher Hicks,11B,15,Female,57.31,Allisonchester,432.964.1669x9414,Computer Science,Khan Academy,2024-12-01
+76,Richard Flynn,12B,16,Female,81.34,New Carlos,+1-417-671-2099x35106,Biology,edX,2025-05-16
+77,Justin Martin,11A,16,Male,96.22,Lake Dianetown,+1-270-649-4586x20168,Biology,Khan Academy,2025-04-15
+78,Jacob Bailey,11A,16,Female,80.54,Williamstown,+1-580-264-7199x11777,Art,Coursera,2024-10-01
+79,Paige Williams,10A,16,Female,94.16,Alexanderfurt,001-664-273-6959,Math,Khan Academy,2024-08-27
+80,Trevor Tucker,12B,15,Male,69.9,Robinland,220-468-6199x594,Science,Skillshare,2024-08-19
+81,Bryan Jackson,12A,17,Female,70.97,Lake Taylor,+1-733-293-4945x5093,Math,Khan Academy,2025-05-15
+82,Brandon Brown,11A,15,Female,58.63,New Stevenhaven,452-816-1440,Biology,Udemy,2025-03-21
+83,Jonathan Montoya,12A,17,Male,52.72,New Kevin,001-258-260-8957x274,Physics,edX,2024-09-06
+84,Michelle Brown,10B,18,Male,52.89,Lake Julie,7268290578,Math,Khan Academy,2025-02-09
+85,Hannah Hawkins,10B,17,Female,90.16,Joycestad,(614)919-4221x66253,Math,Coursera,2024-10-05
+86,Stephen Roberts,10A,17,Male,54.61,Sandovalchester,468.850.0460x9104,Chemistry,Skillshare,2025-01-20
+87,Mary Reed,12B,16,Female,71.17,Hogantown,001-727-353-3204x00132,Computer Science,Udemy,2024-09-23
+88,Michelle Bailey,10A,17,Female,67.45,Gallagherland,(775)615-4026,Art,Skillshare,2025-01-02
+89,Jay Rivera,11B,15,Male,98.02,Lake Meagan,459.770.5583x0744,Art,Skillshare,2025-02-19
+90,Frank Riley,11A,18,Female,70.13,Port Jacobburgh,001-550-532-7434x069,Biology,Khan Academy,2025-03-05
+91,Juan Wallace,12B,18,Female,69.57,Richtown,(624)883-0007x625,Physics,edX,2025-06-22
+92,Katherine Thomas,11B,16,Female,58.51,Jacksonburgh,(997)432-9588,Science,edX,2024-09-01
+93,Michael Rogers,10B,18,Male,55.78,South Eduardoport,6933520635,Computer Science,Skillshare,2024-09-26
+94,Bradley Reynolds,12A,15,Female,78.79,New Allisonland,(701)527-3552x505,Computer Science,Udemy,2025-05-14
+95,Matthew Christensen,12B,15,Female,81.71,East Annbury,911-455-4614x09043,Biology,Coursera,2025-03-28
+96,Debbie Norris,11A,15,Male,54.17,North Danielle,+1-309-808-3565x67282,Biology,Udemy,2025-06-22
+97,Danielle Bennett,10B,18,Male,58.69,Bethanychester,(497)664-9427x9341,Art,Skillshare,2024-08-16
+98,Mrs. Lori Torres MD,10B,17,Male,81.96,Rachaelberg,309.522.6412x436,Math,Coursera,2025-01-02
+99,Melvin Miller,11A,16,Female,91.11,Bethanyville,(234)367-9082x9204,Computer Science,Coursera,2025-04-28
+100,Michael Alvarez,12B,15,Female,98.79,Mitchellton,+1-268-693-9607x63292,Biology,Udemy,2025-04-14
+22,Mitchell Hill,12A,16,Female,98.23,Leonardborough,7826519358,Math,Khan Academy,2025-05-09
+77,Justin Martin,11A,16,Male,96.22,Lake Dianetown,+1-270-649-4586x20168,Biology,Khan Academy,2025-04-15
+31,Shelby Hodges,11B,15,Female,92.05,East Beverlybury,+1-658-837-1584x99753,Chemistry,edX,2025-06-15
+53,David Walters,11B,18,Male,57.27,Rachelfort,772-802-4179x3834,Physics,Khan Academy,2025-02-08
+78,Jacob Bailey,11A,16,Female,80.54,Williamstown,+1-580-264-7199x11777,Art,Coursera,2024-10-01
+61,Nicholas Gonzales,11B,18,Female,94.92,West Shawnfurt,708-518-7178x738,Physics,Udemy,2024-11-12
+45,Shawn Harris,10A,17,Male,83.06,Lake Andrew,933.906.2980,Computer Science,Udemy,2024-10-26
+58,Jason Horton,11B,15,Male,57.18,Madisonfurt,(331)759-7182,Science,Udemy,2025-03-05
+27,Christopher Smith,11A,15,Male,50.54,Biancamouth,001-513-895-4400x6505,Physics,Udemy,2025-02-22
+56,Travis Carter,12A,17,Male,97.32,New Rick,+1-398-653-7299x8416,Biology,Skillshare,2024-12-02
+75,Christopher Hicks,11B,15,Female,57.31,Allisonchester,432.964.1669x9414,Computer Science,Khan Academy,2024-12-01
+2,Jeffrey Winters,10A,16,Male,74.26,Richardshire,822.260.1631,Art,Coursera,2024-09-14
+100,Michael Alvarez,12B,15,Female,98.79,Mitchellton,+1-268-693-9607x63292,Biology,Udemy,2025-04-14
+24,Kristin Hendricks,12B,16,Male,83.76,Jonathanberg,001-412-961-4627,Chemistry,Skillshare,2024-12-14
+25,Dr. Lawrence Morales,12A,17,Male,88.34,East Carolynchester,2457394352,Science,Udemy,2025-04-18
