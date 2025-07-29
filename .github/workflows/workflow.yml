@@ -16,19 +16,28 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Setup Python
+      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # Step 3: Install dependencies
+      # Step 3: Cache pip dependencies (Optional but Recommended)
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # Step 4: Install Dependencies
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pyspark pandas
 
-      # Step 4: Verify input file exists
+      # Step 5: Verify input file exists
       - name: Check input file
         run: |
           if [ ! -f "student_data_with_duplicates.csv" ]; then
@@ -36,13 +45,29 @@ jobs:
             exit 1
           fi
 
-      # Step 5: Run PySpark Script
+      # Step 6: Run PySpark Job
       - name: Run PySpark Job
         run: python spark_script.py
 
-      # Step 6: Upload cleaned CSV as artifact
+      # Step 7: Rename output file (Extract part file from output folder)
+      - name: Rename Output CSV
+        run: |
+          OUT_DIR=$(find . -type d -name "cleaned_student_data_with_duplicates.csv")
+          PART_FILE=$(find $OUT_DIR -type f -name "part-*.csv")
+          cp "$PART_FILE" cleaned_output.csv
+
+      # Step 8: Validate output file (optional but good practice)
+      - name: Validate Output
+        run: |
+          if [ ! -s cleaned_output.csv ]; then
+            echo "❌ Output file is empty or missing!"
+            exit 1
+          fi
+          head -n 5 cleaned_output.csv
+
+      # Step 9: Upload Cleaned CSV as artifact
       - name: Upload Cleaned Data
         uses: actions/upload-artifact@v4
         with:
           name: cleaned-data
-          path: cleaned_student_data_with_duplicates.csv/
+          path: cleaned_output.csv
